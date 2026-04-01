@@ -91,6 +91,14 @@ Dataset → Preprocessing → Feature Extraction → ML Model → Sentiment Outp
 <hr>
 
 <h2>Installation</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/nltk-%23f7931e.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/textblob-%2300bcd4.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23f7931e.svg?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 <pre>
 git clone https://github.com/Adi-Dev18/RTRP-PROJECT.git
 cd RTRP-PROJECT
