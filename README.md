@@ -74,7 +74,7 @@ Dataset → Preprocessing → Feature Extraction → ML Model → Sentiment Outp
 <h2>Screenshots</h2>
 
 <h3>GUI Interface</h3>
-<img src="" width="700">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLfSA7oGIqAZuYwj57rA8MlAGaNBVbJb4Nw&s" width="700">
 
 <h3>Dataset Upload</h3>
 <img src="images/upload.png" width="700">
