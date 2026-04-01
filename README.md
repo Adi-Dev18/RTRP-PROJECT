@@ -6,7 +6,7 @@ Machine learning-based system analyzing women’s safety in Indian cities using 
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8xxg8jcAupEbP1EPoTBuy7WYSewyRGyYWfA&s" alt="Women Safety Analysis Banner" width="100%">
+  <img src="" alt="Women Safety Analysis Banner" width="100%">
 </p>
 
 <h1>Women Safety Analysis using Machine Learning</h1>
@@ -74,26 +74,26 @@ Dataset → Preprocessing → Feature Extraction → ML Model → Sentiment Outp
 <h2>Screenshots</h2>
 
 <h3>GUI Interface</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLfSA7oGIqAZuYwj57rA8MlAGaNBVbJb4Nw&s" width="700">
+<img src="" width="700">
 
 <h3>Dataset Upload</h3>
-<img src="images/upload.png" width="700">
+<img src="" width="700">
 
 <h3>Preprocessing Output</h3>
-<img src="images/preprocessing.png" width="700">
+<img src="" width="700">
 
 <h3>Sentiment Analysis Result</h3>
-<img src="images/sentiment.png" width="700">
+<img src="" width="700">
 
 <h3>Graph Output</h3>
-<img src="images/graph.png" width="700">
+<img src="" width="700">
 
 <hr>
 
 <h2>Installation</h2>
 <pre>
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Adi-Dev18/RTRP-PROJECT.git
+cd RTRP-PROJECT
 pip install -r requirements.txt
 </pre>
 
