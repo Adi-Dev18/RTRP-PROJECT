@@ -108,8 +108,6 @@ Dataset → Preprocessing → Feature Extraction → ML Model → Sentiment Outp
 </p>
 </p>
 <pre>
-git clone https://github.com/Adi-Dev18/RTRP-PROJECT.git
-cd RTRP-PROJECT
 pip install -r requirements.txt
 </pre>
 
