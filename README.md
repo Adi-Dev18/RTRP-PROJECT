@@ -105,10 +105,10 @@ To provide data-driven insights that help authorities, researchers, and society 
 
 ## Contributors
 
-L. Sindhu Sharanya
-K. Adithya 
-B. Dinesh
-Aditya Kumar Sharma 
+-- L. Sindhu Sharanya
+-- K. Adithya 
+-- B. Dinesh
+-- Aditya Kumar Sharma 
 ---
 
 ## License
