@@ -1,1 +1,13 @@
 
+<h2>Requirements</h2>
+
+<h2>Libraries</h2>
+
+<p>
+  <a href="https://pypi.org/project/pandas/">pandas</a> |
+  <a href="https://pypi.org/project/numpy/">numpy</a> |
+  <a href="https://pypi.org/project/matplotlib/">matplotlib</a> |
+  <a href="https://pypi.org/project/nltk/">nltk</a> |
+  <a href="https://pypi.org/project/textblob/">textblob</a> |
+  <a href="https://pypi.org/project/scikit-learn/">scikit-learn</a>
+</p>
