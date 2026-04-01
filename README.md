@@ -6,7 +6,7 @@ Machine learning-based system analyzing women’s safety in Indian cities using 
 
 <!-- Banner -->
 <p align="center">
-  <img src="" alt="Women Safety Analysis Banner" width="100%">
+  <img src="images/FINAL OUTPUT.png" alt="Women Safety Analysis Banner" width="100%">
 </p>
 
 <h1>Women Safety Analysis using Machine Learning</h1>
@@ -74,19 +74,19 @@ Dataset → Preprocessing → Feature Extraction → ML Model → Sentiment Outp
 <h2>Screenshots</h2>
 
 <h3>GUI Interface</h3>
-<img src="" width="700">
+<img src="images/GUI.png" width="700">
 
 <h3>Dataset Upload</h3>
-<img src="" width="700">
+<img src="images/UPLOAD DATASET.png" width="700">
 
 <h3>Preprocessing Output</h3>
-<img src="" width="700">
+<img src="images/CLEANED DATA.png" width="700">
 
 <h3>Sentiment Analysis Result</h3>
-<img src="" width="700">
+<img src="images/SEPRATE THE SENTIMENTS.png" width="700">
 
 <h3>Graph Output</h3>
-<img src="" width="700">
+<img src="images/FINAL OUTPUT.png" width="700">
 
 <hr>
 
