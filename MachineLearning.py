@@ -1,4 +1,5 @@
 import tkinter
+from tkinter import filedialog
 from textblob import TextBlob
 from tkinter import *
 import matplotlib.pyplot as plt
@@ -39,7 +40,9 @@ def read():
     tweets_list.clear()
     train = pd.read_csv(filename,encoding='iso-8859-1')
     for i in range(len(train)):
-        tweet = train.get_value(i, 'Text')
+    #for i in range(len(train)):
+      #  tweet = train.get_value(i, 'Text')
+        tweet = train.iloc[i]['Text']
         tweets_list.append(tweet)
         text.insert(END,tweet+"\n")
     text.insert(END,"\n\nTotal tweets found in dataset is : "+str(len(tweets_list))+"\n\n\n")        
