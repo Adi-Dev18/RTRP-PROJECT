@@ -1,4 +1,4 @@
-<h1 align="center">RTRP-PROJECT</h1>
+<img width="1777" height="1062" alt="image" src="https://github.com/user-attachments/assets/b7195bbe-cbe8-480b-930d-56cd17c9080f" /><h1 align="center">RTRP-PROJECT</h1>
 
 <p align="center">
 Machine learning-based system analyzing women’s safety in Indian cities using X (Twitter) data. Applies NLP and sentiment analysis (RF, SVM, TextBlob) to classify tweets and provide city-wise insights with visualizations.
@@ -38,11 +38,11 @@ This project analyzes women’s safety in Indian cities using machine learning a
 </tr>
 <tr>
   <td>Language</td>
-  <td>Python</td>
+  <td>Python → 3.10.11</td>
 </tr>
 <tr>
   <td>NLP</td>
-  <td>NLTK, TF-IDF</td>
+  <td>NLTK → 3.9.4, TF-IDF</td>
 </tr>
 <tr>
   <td>ML Models</td>
@@ -50,11 +50,11 @@ This project analyzes women’s safety in Indian cities using machine learning a
 </tr>
 <tr>
   <td>Libraries</td>
-  <td>Pandas, NumPy, Matplotlib</td>
+  <td>Pandas → 1.5.3, NumPy → 1.23.5, Matplotlib → 3.10.8</td>
 </tr>
 <tr>
   <td>Sentiment</td>
-  <td>TextBlob</td>
+  <td>TextBlob → 0.17.1</td>
 </tr>
 <tr>
   <td>UI</td>
