@@ -6,7 +6,7 @@ Machine learning-based system analyzing women’s safety in Indian cities using 
 
 <!-- Banner -->
 <p align="center">
-  <img src="images/FINAL OUTPUT.png" alt="Women Safety Analysis Banner" width="100%">
+ <img width="1777" height="1062" alt="image" src="https://github.com/user-attachments/assets/b7195bbe-cbe8-480b-930d-56cd17c9080f" />
 </p>
 
 <h1>Women Safety Analysis using Machine Learning</h1>
